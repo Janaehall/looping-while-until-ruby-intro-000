@@ -1,3 +1,3 @@
 def convert_to_index(pos)
-  pos -= 1
+  pos = pos - 1
 end
